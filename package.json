@@ -1,8 +1,8 @@
 {
-  "name": "locize-lastused",
-  "version": "3.0.2",
+  "name": "@nooksbazaar/locize-lastused",
+  "version": "3.0.3",
   "description": "Using API lastUsed using in node.js, in the browser and for deno.",
-  "type": "module",
+  "type": "commonjs",
   "main": "./cjs/index.js",
   "exports": {
     ".": {
